@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod gou+rX /.
+chmod gou+X /.
