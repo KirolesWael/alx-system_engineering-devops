@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BINARY,$((10#${D2B[$BINARY]}))
+echo $((10#${D2B[$BINARY]}))
