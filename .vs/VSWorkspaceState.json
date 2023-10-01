@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\0x04-loops_conditions_and_parsing",
+    "\\0x05-processes_and_signals"
   ],
-  "SelectedNode": "\\C:\\Users\\20122\\Source\\Repos\\alx-system_engineering-devops",
+  "SelectedNode": "\\0x05-processes_and_signals\\8-beheaded_process",
   "PreviewInSolutionExplorer": false
 }
